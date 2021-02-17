@@ -4,7 +4,9 @@
     "description": "Microbit Makecode Extension to setup a car",
     "license": "GPL",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "ps2controller": "github:yfrobot-tm/pxt-ps2-controller#v0.0.9",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
     },
     "files": [
         "README.md",
